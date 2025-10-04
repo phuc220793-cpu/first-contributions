@@ -86,7 +86,11 @@
 <kbd>[<img title="Morocco" alt="Moroccan Darija" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ma.svg" width="22">](docs/translations/README.ma.md)</kbd>
 <kbd>[<img title="Mongolian" alt="Mongolian" src="https://cdn.statically.io/flags/mn.svg" width="22">](docs/translations/README.mn.md)</kbd>
 
+<<<<<<< HEAD
 # Đây là README được chỉnh sửa từ nhánh main.
+=======
+# Đây là README được chỉnh sửa từ nhánh conflict-demo.
+>>>>>>> conflict-demo
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
